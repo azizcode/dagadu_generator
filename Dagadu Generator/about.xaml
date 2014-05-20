@@ -1,0 +1,19 @@
+﻿<metro:Window x:Class="Dagadu_Generator.about"
+              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              xmlns:metro="http://schemas.codeplex.com/elysium"
+              xmlns:params="http://schemas.codeplex.com/elysium/params"
+              params:Design.Theme="Light"
+              params:Design.AccentBrush="{x:Static metro:AccentBrushes.Blue}"
+              params:Design.ContrastBrush="White"
+              Title="about" Height="190" Width="335" WindowStyle="None" WindowStartupLocation="CenterScreen" params:Manager.Theme="Light">
+    <Grid Background="Tomato" Margin="0,0,2,0" Height="182" VerticalAlignment="Top" >
+        <TextBlock Foreground="#FFE6E1C1" HorizontalAlignment="Left" Margin="97,15,0,0" TextWrapping="Wrap" Text="Dagadu Generator" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <TextBlock Foreground="#FFE6E1C1" HorizontalAlignment="Left" Margin="116,36,0,0" TextWrapping="Wrap" Text="Version 1.0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <TextBlock Foreground="#FFE6E1C1" HorizontalAlignment="Left" Margin="66,57,0,0" TextWrapping="Wrap" Text="H. ABDUL AZIZ (10650088)" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <TextBlock Foreground="#FFE6E1C1" HorizontalAlignment="Left" Margin="16,97,0,0" TextWrapping="Wrap" Text="Thanks to : YUNIFA MIFTACHUL ARIF, M.T. " VerticalAlignment="Top" Width="286" FontFamily="Arial Black"/>
+        <TextBlock Foreground="#FFE6E1C1" HorizontalAlignment="Left" Margin="60,77,0,0" TextWrapping="Wrap" Text="KHARIS ROSYADI (10650112)" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Button Click="kembali" Content="OK" HorizontalAlignment="Left" Margin="128,126,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</metro:Window>
