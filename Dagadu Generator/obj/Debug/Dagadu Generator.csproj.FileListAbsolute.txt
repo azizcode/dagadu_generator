@@ -1,0 +1,22 @@
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Dagadu Generator.exe.config
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Dagadu Generator.exe
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Dagadu Generator.pdb
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Elysium.dll
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Elysium.pdb
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Elysium.xml
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Dagadu Generator\Dagadu Generator\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\MainWindow.baml
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\App.baml
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\MainWindow.g.cs
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\App.g.cs
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator_MarkupCompile.cache
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator.g.resources
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu_Generator.Properties.Resources.resources
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator.csproj.GenerateResource.Cache
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator.exe
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator.pdb
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\Dagadu Generator.csprojResolveAssemblyReference.cache
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\about.baml
+D:\Dagadu Generator\Dagadu Generator\obj\Debug\about.g.cs
